@@ -35,7 +35,7 @@
 - [] Make a Stream Starting Page
 - [] Certified Genius stream boss
   I think I'll have to make my own twitch bot
-  Time to start making
+  Time to start making my own twitch bot
 - [x] Make a Stream Utils Git
 - [x] Did I set up StayHydrated bot correctly?
 - [x] Certified genius chat command with more ~sincere~ phrasing and takes a twitch handle as an argument
