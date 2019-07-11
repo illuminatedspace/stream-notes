@@ -32,13 +32,13 @@
 ## Things to Look Into
 
 - [] Make a Stream Starting Page
-- [] Make a Stream Utils Git
+- [x] Make a Stream Utils Git
 - [x] Did I set up StayHydrated bot correctly?
 - [] Certified Genius stream boss
-- [] Certified genius chat command with more sincere phrasing and takes a twitch handle as an argument
-- [] CLarkio's twitch line highlighter extension
-- [] !profit bot command
-- [] !streamNotes
+- [x] Certified genius chat command with more ~sincere~ phrasing and takes a twitch handle as an argument
+- [] Clarkio's twitch line highlighter extension
+- [x] !profit bot command
+- [x] !streamnotes
 
 ## Announcements
 
