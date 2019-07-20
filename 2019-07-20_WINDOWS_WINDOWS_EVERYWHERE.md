@@ -2,27 +2,27 @@
 
 ## Set Up
 
-- [] Discord server
-
 ## Agenda
 
-- [] Announcements
-- [] Active Window on top
-- [] More icons
+- [x] Announcements
+- [x] Active Window on top
+- [x] More icons
 
 ## What We Did
 
 ### Coding
 
--
+- Make active window on top
+- Added other icons
+- added default positioning for windows
 
 ### Other
 
--
+- Reordered feature todo list
 
 ## What We Learned
 
--
+- onMouseDown event vs onClick which is on mouse basically
 
 ## Things to Look Into
 
@@ -30,6 +30,7 @@
 - [] Make a Stream Starting Page
 - [] Certified Genius stream boss
   Time to start making my own twitch bot
+- [] Clarkio highlighter extension working
 
 ## Announcements
 
