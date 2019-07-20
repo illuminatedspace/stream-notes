@@ -37,3 +37,5 @@
   - Linked List stream with special guest
   - New commission project coming using some fun apis possibly
   - Git 101 stream
+- !volume, !theme, !project, !genius
+-

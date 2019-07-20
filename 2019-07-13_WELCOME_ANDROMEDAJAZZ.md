@@ -29,12 +29,11 @@
 - [] Make custom emote, Certified Genius
 - [] Make a Stream Starting Page
 - [] Certified Genius stream boss
-  I think I'll have to make my own twitch bot
   Time to start making my own twitch bot
 - [] Why isn't the Clarkio Twitch Highlighter commands working :(
-- [] !volume chat bot command
-- [] !theme chat bot command
-- [] add repo to !project command
+- [x] !volume chat bot command
+- [x] !theme chat bot command
+- [x] add repo to !project command
 
 ## Announcements
 
