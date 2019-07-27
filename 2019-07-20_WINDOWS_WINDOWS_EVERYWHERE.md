@@ -26,11 +26,11 @@
 
 ## Things to Look Into
 
-- [] Make custom emote, Certified Genius
-- [] Make a Stream Starting Page
-- [] Certified Genius stream boss
+- [ ] Make custom emote, Certified Genius
+- [ ] Make a Stream Starting Page
+- [ ] Certified Genius stream boss
   Time to start making my own twitch bot
-- [] Clarkio highlighter extension working
+- [ ] Clarkio highlighter extension working
 
 ## Announcements
 
@@ -39,4 +39,3 @@
   - New commission project coming using some fun apis possibly
   - Git 101 stream
 - !volume, !theme, !project, !genius
--
