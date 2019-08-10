@@ -4,27 +4,15 @@
 
 ## Agenda
 
-- [ ] Friends Talk https://www.meetup.com/vueJsNYC/events/262795853/
-- [ ] VueJs Tutorial Heat Map
+- [x] Friends Talk https://www.meetup.com/vueJsNYC/events/262795853/
+- [x] VueJs Tutorial Heat Map https://github.com/annapamma/vue-heatmap-tutorial
 
 ## What We Did
 
 ### Coding
 
--
-
-### Other
-
--
+- Made a heat map based on nyc rent prices with Vue and Apex Charts
 
 ## What We Learned
 
--
-
-## Things to Look Into
-
-- [ ]
-
-## Announcements
-
--
+- Vue is so quick!
