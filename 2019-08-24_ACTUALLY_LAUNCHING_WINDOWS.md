@@ -21,6 +21,7 @@
 
 ## Announcements
 
-- [] Pair Programming Stream with Ali Spittel on 8/31 Thank U Next Linked Lists
-- [] Git 101 Stream with @notthatkeane some time after
-- [] THANK YOU! WE HIT OUR 15 SUB GOAL!!! Knit and Chill Stream September ??? !profit
+- [ ] Pair Programming Stream with Ali Spittel on 8/31 Thank U Next Linked Lists
+- [ ] Git 101 Stream with @notthatkeane some time after
+- [ ] THANK YOU! WE HIT OUR 15 SUB GOAL!!! Knit and Chill Stream September ??? `!profit`
+- [ ] Clarkio Twitch Highlighter actually working now! `!line <lineNumber>` `!highlight <lineNumber>`
