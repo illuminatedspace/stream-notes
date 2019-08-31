@@ -2,29 +2,32 @@
 
 ## Agenda
 
-- [] Intro
-- [] Special Guest Ali Spittel https://twitter.com/ASpittel
-- [] Announcements
-- [] Learn about Linked Lists
+- [x] Intro
+- [x] Special Guest Ali Spittel https://twitter.com/ASpittel
+- [x] Announcements
+- [x] Learn about Linked Lists
 
 ## What We Did
 
 ### Coding
 
-- L
+- Linked Lists!
 
 ## What We Learned
 
--
+- Terms like node, pointer, linked list
+- How to do a object oriented implementation of a linked list
+- time a space complexity of our implementation
+- Ariana Grande
 
 ## Things to Look Into
 
-- [] "Stay Hydrated" bot
+- [] Do a quick functional implementation of a linked list
 
 ## Announcements
 
-- [] `!guest` command
-- [] `!thankU` command
-- [] `project` command
-- [] Knit and Chill stream still coming up
-- [] Git 101 stream coming up
+- [x] `!guest` command
+- [x] `!thankU` command
+- [x] `!project` command
+- [x] Knit and Chill stream still coming up
+- [x] Git 101 @notthatkeane stream coming up
