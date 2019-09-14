@@ -1,9 +1,5 @@
 # 2019-00-00 Name
 
-## Set Up
-
-- [] Discord server
-
 ## Agenda
 
 - [] Announcements
