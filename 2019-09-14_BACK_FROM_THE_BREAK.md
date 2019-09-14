@@ -10,6 +10,7 @@
 
 - [x] Do a quick imperative(?) implementation of a linked list
   - https://repl.it/@illuminatedspace1/Linked-Lists-Thank-U-Next
+- [x] Got windows to launch!
 
 ## What We Learned
 
