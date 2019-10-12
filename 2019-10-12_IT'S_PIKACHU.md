@@ -24,7 +24,7 @@
 
 ## Things to Look Into
 
-- Secrets Screen
+- Secrets Screen (make audio still play), icon, custom emote
 - Schedule Knit and Chill
 - Schedule Git 101 with @notthatkeane
 
