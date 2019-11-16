@@ -25,7 +25,7 @@
 ## Things to Look Into
 
 - Stream ending screen
-- Stream points for lurkers
+- Stream points for lurkers https://www.twitch.tv/beta/channelpoints
 - Points enabled link posting
 
 ## Announcements
