@@ -2,7 +2,7 @@
 
 ## Agenda
 
-- [ ] Announcements
+- [x] Announcements
 - [ ] Advent of Code
 
 ## What We Did
@@ -13,15 +13,15 @@
 
 ## What We Learned
 
-- Installing Python 3 on WSL is hard.
+-
 
 ## Things to Look Into
 
 ## Announcements
 
-- [ ] 12 Hour Charity Stream @ 500 Followers
-- [ ] Hardware Stream @ 30 Subs
-- [ ] Stay tuned for first YouTube upload: timelapse video of resume creation
+- [x] 12 Hour Charity Stream @ 500 Followers
+- [x] Hardware Stream @ 30 Subs
+- [x] Stay tuned for first YouTube upload: timelapse video of resume creation
 
 ## Question of the Day
 
