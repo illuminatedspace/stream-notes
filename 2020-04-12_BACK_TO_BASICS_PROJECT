@@ -9,19 +9,27 @@
 
 ### Coding
 
--
+- Injected pokeapi-js-wrapper script into site
+- Made an async call to PokeAPI for pokemon
+- Wrote function for random original pokemon index
+- Display pokemon name on site!
 
 ## What We Learned
 
--
+- I am rusty on vanilla JS
+- Pokemon are not zero indexed
+- CSS Selectors = very cool
+- Promises before async await are a little unweildy
 
 ## Things to Look Into
 
-- 
+- "Pokémon are not zero-indexed"
+- "Politoed is a good round boy."
 
 ## Announcements
 
-- [] Did you see Mr. Uk?
-- [] New background who?
-- [] Check out the VoD for The Live Coders Conference: https://www.twitch.tv/thelivecoders/videos 
-  - [] Including a talk from your's truly on Getting Your Second Coding Job: https://www.twitch.tv/videos/587368962?t=06h13m53s
+- [x] Did you see Mr. Uk?
+- [x] New background who?
+- [x] New custom points reward
+- [x] Check out the VoD for The Live Coders Conference: https://www.twitch.tv/thelivecoders/videos 
+  - [x] Including a talk from your's truly on Getting Your Second Coding Job: https://www.twitch.tv/videos/587368962?t=06h13m53s
