@@ -2,7 +2,7 @@
 
 ## Agenda
 
-- [ ] Announcements
+- [x] Announcements
 - [ ] Finish functionality on pokemon trivia site
 - [ ] Maybe start styling
 
@@ -10,11 +10,17 @@
 
 ### Coding
 
-- 
+- Did a lot of work to get the evolution level of the pokemon calling
+  3 different APIs and writing a recursive function
+- Split the code into different files to reduce respective file sizes
 
 ## What We Learned
 
-- 
+- Nested data with unknown depth from an API if difficult to work with!
+- Import help in Glitch from @kleinfreund
+  > So the minimum I needed to do was (1) `type=module` on script tag
+  > (2) `import { namedExport } from "./fileName.js"` and
+  > (3) `export function namedExport() {}` in `fileName.js`.
 
 ## Things to Look Into
 
@@ -24,10 +30,10 @@
 
 ## Announcements
 
-- [ ] Influence the stream with the Discord server polls! https://discord.gg/HtzFbD
-- [ ] New custom points reward
-- [ ] Spring The Live Coders Conference Talks are going up on YouTube
-  - [ ] Including a talk from your's truly on Getting Your Second Coding Job: https://www.youtube.com/watch?v=Npmym30xxqc
-  - [ ] YouTube channel: https://www.youtube.com/channel/UCz7iLJYRhzoSVIXZ2dESzuw
-- [ ] Summer Live Coders Conference Announced for June 20, 2020
-- [ ] QOTD: What's your favorite number?
+- [x] Influence the stream with the Discord server polls! https://discord.gg/HtzFbD
+- [x] New custom points reward
+- [x] Spring The Live Coders Conference Talks are going up on YouTube
+  - [x] Including a talk from your's truly on Getting Your Second Coding Job: https://www.youtube.com/watch?v=Npmym30xxqc
+  - [x] YouTube channel: https://www.youtube.com/channel/UCz7iLJYRhzoSVIXZ2dESzuw
+- [x] Summer The Live Coders Conference Announced for June 20, 2020
+- [x] QOTD: What's your favorite number?
