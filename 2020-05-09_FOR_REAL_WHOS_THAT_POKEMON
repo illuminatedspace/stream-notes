@@ -2,28 +2,39 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Get guessing working
+- [x] Announcements
+- [x] Get guessing working
 
 ## What We Did
 
 ### Coding
 
-- 
+- We got guessing working!
+- Create 3 random options
+- put options in form
+- tell you if you got the right answer
+- disable inputs after guess
+- randomize options
+- display correct answer
 
 ## What We Learned
 
-- 
+- using native on<event> methods is difficult/impossibe with how we're importing things?
+- I'm rusty with regular html
+- We all love pokemon and star trek
 
 ## Things to Look Into
 
 - get chat bot running on Glitch
   - "Pokémon are not zero-indexed."
   - "Politoed is a good round boy."
+- customize channel points
+  - name: Stardust or Photons
+  - add new icon
 
 ## Announcements
 
-- [ ] Influence the stream with the Discord server polls! https://discord.gg/w2EznUN
-- [ ] Friday Night Animal Crossing Hang: Fridays at 5pm ET in the discord server https://discord.gg/w2EznUN
-- [ ] Summer The Live Coders Conference Announced for June 20, 2020
-- [ ] QOTD: Where are you on your coding journey?
+- [x] Influence the stream with the Discord server polls! https://discord.gg/w2EznUN
+- [x] Friday Night Animal Crossing Hang: Fridays at 5pm ET in the discord server https://discord.gg/w2EznUN
+- [x] Summer The Live Coders Conference Announced for June 20, 2020
+- [x] QOTD: Do you ever send letters to friends? Are you a fan of personal snail mail?
