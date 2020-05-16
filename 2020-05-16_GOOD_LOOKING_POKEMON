@@ -2,22 +2,26 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Make this pokemon look GOOD
+- [x] Announcements
+- [x] Warmup 
+- [x] Make this pokemon look GOOD
 
 ## What We Did
 
 ### Warm-up
 
-- How does git know how to order commits?
+#### How does git know how to order commits?
+Commits are ordered by creation time not merge time.
 
 ### Coding
 
-- 
+- Picked color pallete from team rocket picture
+- Added animated clouds
+- Added a team rocket balloon to background
 
 ## What We Learned
 
-- 
+- to use z-index you need to use non static positioning
 
 ## Things to Look Into
 
