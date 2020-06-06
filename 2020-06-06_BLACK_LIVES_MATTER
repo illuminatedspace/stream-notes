@@ -4,7 +4,7 @@
 
 - [x] Announcements
 - [x] Black Lives Matter
-- [ ] Accessibility Audit
+- [x] Accessibility Audit
 
 ## What We Did
 
@@ -19,19 +19,28 @@
 
 ### Coding
 
-- 
+- Used Lighthouse for accessiblity audit features
+- Went through all of the self test criteria
 
 ## What We Learned
-- 
+
+- Making the site accessible from the start is way easier and less work, but still definitely worth doing after the fact
+- How to download a screen reader for Windows (NVDA)
+- Using good accessibility practices improved the quality of the site holistically
+- ARIA Live Regions
+- General practices for good accessiblity for screen readers
 
 ## Things to Look Into
 
-- Update Panels
+- Update Stream Panels
 - Add link for donations
+- Make donation to NV Access for screen reader: https://www.nvaccess.org/
+- Read this page on accesibility: https://developers.google.com/web/fundamentals/accessibility?utm_source=lighthouse&utm_medium=devtools
+- People with knowledge on accessiblity to look into: Marco Zehe, Leonie Watson, Scott O’Hara, Heydon Pickering, Marcy Sutton (from @kleinfreund)
 
 ## Announcements
 
 - [x] NEW Total redo of Discord Server: Clubs, Code of Conduct
-- [x] NEW Book Club: reading How to be an Antiracist by Ibram X. Kendi
+- [x] NEW Book Club: reading How to be an Antiracist by Ibram X. Kendi. Discussion on 6/14
 - [x] NEW June !charity: Advancement Project https://advancementproject.org/home/
 - [x] QOTD: What active steps are you taking against systematic racism?
