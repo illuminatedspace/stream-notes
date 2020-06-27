@@ -2,10 +2,10 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Black Lives Matter
-- [ ] Warmup
-- [ ] Accessibility Audit
+- [x] Announcements
+- [x] Black Lives Matter
+- [x] Warmup
+- [x] Credits Jam Speed Run Development
 
 ## What We Did
 
@@ -14,22 +14,28 @@
 ### Warm-up
 
 - Uptime and shout out commands?
+DONE AND DONE!!! With time to spare
+15 minutes
 
 ### Coding
 
-- 
+- Got functionality for adding names to dropdowns only seeing them in game to work
+- Removed some unused code
+- Decided to only fill names
+- Started to make form stateful
 
 ## What We Learned
 
-- 
+- Learned how to render html from strings in Snowman
 
 ## Things to Look Into
 
-- 
+This really cool D&D location flavor text generator project (thanks @glinkis2)
+- https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator
 
 ## Announcements
 
-- [ ] Discord Server
-- [ ] Book Club: Next book TBD
-- [ ] June !charity: Advancement Project https://advancementproject.org/home/
-- [ ] QOTD: Have you every played a Tabletop RPG? What system is your favorite?
+- [x] Discord Server
+- [x] Book Club: Next book TBD
+- [x] June !charity: Advancement Project https://advancementproject.org/home/
+- [x] QOTD: Have you every played a Tabletop RPG? What system is your favorite or which one would you like to try?
