@@ -2,10 +2,10 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Black Lives Matter !BLM
-- [ ] Warmup
-- [ ] Animal Crossing RSVP
+- [x] Announcements
+- [x] Black Lives Matter !BLM
+- [x] Warmup
+- [x] Animal Crossing RSVP
 
 ## What We Did
 
@@ -13,21 +13,25 @@
 
 ### Warm-up
 
-- Move a command to chat bot
+Move a command to chat bot
+- started shout out command
+- need to add authentication, get token, etc.
 
 ### Coding
 
-- 
+- Created an app plan
+- Chose technologies
+- https://docs.google.com/spreadsheets/d/1YjEpuoR_bq0XGWOaKCgGcEaDyYrAsisT3wUWlXN_-s0/edit#gid=0
 
 ## What We Learned
 
-- 
+- Visitor logic is incredibly complex
 
 ## Things to Look Into
 
 
 ## Announcements
 
-- [ ] Discord Server
-- [ ] Book Club: How to be Less Stupid About Race by Crystal M. Fleming
-- [ ] QOTD: Who's your favorite island visitor?
+- [x] Discord Server
+- [x] Book Club: How to be Less Stupid About Race by Crystal M. Fleming
+- [x] QOTD: Who's your favorite island visitor?
