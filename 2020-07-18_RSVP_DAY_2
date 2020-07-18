@@ -2,10 +2,10 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Black Lives Matter !BLM
-- [ ] Warmup
-- [ ] Animal Crossing Island RSVP
+- [x] Announcements
+- [x] Black Lives Matter !BLM
+- [x] Warmup
+- [x] Animal Crossing Island RSVP
 
 ## What We Did
 
@@ -13,23 +13,36 @@
 
 ### Warm-up
 
-Move a command to chat bot: Authentication for Discord API
+Move a command to chat bot: Authentication for Twitch API
 - started shout out command
 - need to add authentication, get token, etc.
+- registered bot in helix Twitch api version
+
+- made a style guide for site
+  - picked fonts (Thanks chat!)
+- created app on Firebase
 
 ### Coding
 
-- 
+- Thought through some probability math for visitors
 
 ## What We Learned
 
-- 
+- Gotta do a lot of work before actually coding :)
 
 ## Things to Look Into
 
+- Set up front end environment
+  - Gatsby
+  - Styled Components
+  - Fonts
+  - Netlify?
+  - Firebase Auth?
+  - .nvmrc
+  - .env
 
 ## Announcements
 
-- [ ] Discord Server
-- [ ] Book Club: How to be Less Stupid About Race by Crystal M. Fleming
-- [ ] QOTD: Who's your favorite island visitor?
+- [x] Discord Server
+- [x] Book Club: How to be Less Stupid About Race by Crystal M. Fleming
+- [x] QOTD: Who's your favorite island visitor?
