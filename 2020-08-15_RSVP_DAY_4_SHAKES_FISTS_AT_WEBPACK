@@ -5,7 +5,7 @@
 - [x] Announcements
 - [x] Black Lives Matter !BLM
 - [x] Warmup
-- [ ] Animal Crossing Island RSVP
+- [x] Animal Crossing Island RSVP
 
 ## What We Did
 
@@ -26,11 +26,14 @@ Read about Permutations math. Answer involves permutations without repitition an
 
 ## What We Learned
 
+- learned a lot about calculating permutations with and without repeats and unique/non-unique objects
+- Just use create-react-app
 - 
 
 ## Things to Look Into
 
 - SQL Mystery game: https://mystery.knightlab.com/
+- 3 file Parcel Sandbox courtesy of JoyOfUi: https://codesandbox.io/s/frosty-taussig-tunis?file=/index.js
 
 ## Announcements
 
