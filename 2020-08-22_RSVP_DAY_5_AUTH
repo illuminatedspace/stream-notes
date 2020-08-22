@@ -2,10 +2,10 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Black Lives Matter !BLM
-- [ ] Warmup: Binary Tree Breadth First Search
-- [ ] Animal Crossing Island RSVP
+- [x] Announcements
+- [x] Black Lives Matter !BLM
+- [x] Warmup: Binary Tree Breadth First Search
+- [x] Animal Crossing Island RSVP
 
 ## What We Did
 
@@ -15,6 +15,8 @@
 
 Binary Tree Breadth First Search
 Practical Applications
+- Finished within time!
+answer: https://repl.it/join/sxcbpetp-illuminatedspace1
 
 ### Project
 
@@ -22,15 +24,17 @@ Practical Applications
 
 ## What We Learned
 
-- 
+- firebase docs ton't tell you how to set up firebase with react AT ALL
 
 ## Things to Look Into
 
-- 
+- Completely home roll firbase
+- Why aren't the imports working ?!?!? T.T
 
 ## Announcements
 
-- [ ] New Funding Model: 50/50
-- [ ] Hardware Project: Pulse Sensor
-- [ ] New Sub Goal: Horror Game
-- [ ] QOTD: What's something you have to look up everytime.
+- [x] New Funding Model: 50 Charity/50 Me 
+- [x] Hardware Project: Pulse Sensor
+- [x] New Sub Goal: Horror Game
+- [x] QOTD: What's something you have to look up everytime?
+
