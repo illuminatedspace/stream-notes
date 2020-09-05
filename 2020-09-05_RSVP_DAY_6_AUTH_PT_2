@@ -33,6 +33,7 @@ Have solution~25, but think there's a more performant one. Want to go through so
 
 ## What We Learned
 
+- ENV variables in react need to be prefixed with `REACT_ENV_` to get injected into process.env
 - Vanilla React form management strategies
 - React doesn't respect the `for` html property. It's `htlmFor` instead
 - Quaxo is the German localization for Politoed
