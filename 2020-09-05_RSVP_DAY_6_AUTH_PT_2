@@ -4,7 +4,7 @@
 
 - [x] Announcements
 - [x] Black Lives Matter !BLM
-- [ ] Warmup
+- [x] Warmup
 - [ ] Animal Crossing Island RSVP
 
 ## What We Did
@@ -27,14 +27,21 @@ Have solution~25, but think there's a more performant one. Want to go through so
 ### Project
 
 - Continue Authentication
+- Got firebase loading properly
+- Fix ENV variables with dotenv
+- Got some forms working
 
 ## What We Learned
 
-- 
+- Vanilla React form management strategies
+- React doesn't respect the `for` html property. It's `htlmFor` instead
+- Quaxo is the German localization for Politoed
+- Where the WSL2 filesystem lives, and where the windows files live in relation to that.
 
 ## Things to Look Into
 
-- 
+- `react-with-firebase-auth` if we get caught up with implementing auth
+- fix hot reloading on WSL2
 
 ## Announcements
 
