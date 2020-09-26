@@ -2,9 +2,9 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Black Lives Matter !BLM
-- [ ] Blaseball Reader
+- [x] Announcements
+- [x] Black Lives Matter !BLM
+- [x] Blaseball Reader
 
 ## What We Did
 
@@ -12,19 +12,26 @@
 
 ### Project
 
-- Blaseball Reader
+Blaseball Reader
+- Figured out a way to get the game log text read
+- Seems to be working
 
 ## What We Learned
 
-- 
+- chrome extension development is hard
+- requestFrameAnimation function and how to use it to check for something every frame
+- working on something with functionality constrained to limited time is difficult
+- chrome has own TTS api
 
 ## Things to Look Into
 
-- 
+- Options: add volume
+- Is this the right place to put the code?
+- In pop up we need a start/stop button
 
 ## Announcements
 
-- [ ] 50/50 Charity: Houston Food Bank !charity
-- [ ] QOTD: What's the best place you've ever explored?
+- [x] 50/50 Charity: Houston Food Bank !charity
+- [x] QOTD: What's your favorite sport?
 
 ## Messages
