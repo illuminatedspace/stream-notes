@@ -2,8 +2,8 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Black Lives Matter !BLM
+- [x] Announcements
+- [x] Black Lives Matter !BLM
 - [ ] Blaseball Reader
 
 ## What We Did
@@ -13,20 +13,23 @@
 ### Project
 
 Blaseball Reader
-- Is this even the right way to do this? Chrome extensions?!?!
-- Make it look better?
+- [x] Is this even the right way to do this? Chrome extensions?!?!
+- [ ] Make it look better?
+- [ ] Volume slider
 
 ## What We Learned
 
-- 
+- You can import scrips to execute on tabs from files, so no more manually stringified functions
+- function.toString() to get string of function
+
+https://coolors.co/000000-ffffff-ff017b-152499-ffeb57
+https://coolors.co/000000-ffffff-ff017b-3bf59b-992222
 
 ## Things to Look Into
 
-- Options: add volume
-- Is this the right place to put the code?
-- In pop up we need a start/stop button
+- accessibility dialog reference https://www.w3.org/TR/wai-aria-practices/examples/dialog-modal/dialog.html
 
 ## Announcements
 
-- [ ] 50/50 Charity: Wildfire Relief (TBA) !charity
-- [ ] QOTD: Answer a question for me to make the stream the best it can be. When is the best time for the stream?: https://fast-poll.com/poll/4d8e9f7e
+- [x] 50/50 Charity: Wildfire Relief (TBA) !charity
+- [x] QOTD: Answer a question for me to make the stream the best it can be. When is the best time for the stream?: https://fast-poll.com/poll/4d8e9f7e
