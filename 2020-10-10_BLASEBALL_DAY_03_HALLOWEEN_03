@@ -2,9 +2,9 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Black Lives Matter !BLM
-- [ ] Blaseball Reader
+- [x] Announcements
+- [x] Black Lives Matter !BLM
+- [x] Blaseball Reader
 
 ## What We Did
 
@@ -13,20 +13,24 @@
 ### Project
 
 Blaseball Reader
-- [ ] Figure out the look
-- [ ] Make it look better?
-- [ ] Volume slider
+- [x] Figure out the look
+- [x] Make it look better?
+- [-] Volume slider
 
 ## What We Learned
 
-- 
+- SVGs are quick if you understand how to do them.
+- If you create SVGs in a program like affinity, it helps to make sure that all the path coordinate points fall on whole numbers so that you can "read' the SVG later and can make changes by hand if necessary.
+- GUI programs like Illustrator/Affinity will often output much more verbose SVGs than they have to.
 
 ## Things to Look Into
 
 - accessibility dialog reference https://www.w3.org/TR/wai-aria-practices/examples/dialog-modal/dialog.html
 - Color contrast accessibility https://whocanuse.com/
+- How to make the play/pause button accessible https://inclusive-components.design/toggle-button/
+^^^ Still good reading but not doing a toggle anymore
 
 ## Announcements
 
-- [ ] 50/50 Charity: Americares !chairity
-- [ ] QOTD: Answer a question for me to make the stream the best it can be. When is the best time for the stream?: https://fast-poll.com/poll/4d8e9f7e
+- [x] 50/50 Charity: Americares !chairity
+- [x] QOTD: Answer a question for me to make the stream the best it can be. When is the best time for the stream?: https://fast-poll.com/poll/4d8e9f7e
