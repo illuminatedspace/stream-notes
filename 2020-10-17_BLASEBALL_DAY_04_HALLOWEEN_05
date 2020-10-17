@@ -2,8 +2,8 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Get Politically Active
+- [x] Announcements
+- [x] Get Politically Active
 - [ ] Blaseball Reader
 
 ## What We Did
@@ -13,18 +13,20 @@
 ### Project
 
 Blaseball Reader
-- [ ] Accessibility
-- [ ] Volume slider
+- [-] Accessibility
+- [-] Volume slider
 
 ## What We Learned
 
-- 
+- Chrome extensions are extrememly difficult to work with
+- You can't send information from the extension to the page unless you send a "message"
 
 ## Things to Look Into
 
 - accessibility dialog reference https://www.w3.org/TR/wai-aria-practices/examples/dialog-modal/dialog.html
+- "So, If I am remembering this right. when I did something like this, I would initially send a message from the tab to the extension with a browser inject. Then I'd send messages back from a stored state of that tab" (via nallaj)
 
 ## Announcements
 
-- [ ] 50/50 Charity: Americares !chairity
-- [ ] QOTD: What's your favorite library, framework, or website?
+- [x] Halloween Charity Cooking Stream 10/31: Sweet, savory, healthy, Trick or Treat Wheel!
+- [x] QOTD: What's your favorite library, framework, or website?
