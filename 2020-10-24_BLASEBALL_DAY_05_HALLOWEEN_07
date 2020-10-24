@@ -2,9 +2,9 @@
 
 ## Agenda
 
-- [ ] Announcements
-- [ ] Get Politically Active
-- [ ] Blaseball Reader
+- [x] Announcements
+- [x] Get Politically Active
+- [x] Blaseball Reader
 
 ## What We Did
 
@@ -13,18 +13,20 @@
 ### Project
 
 Blaseball Reader
-- [-] Volume slider
-- [ ] Restyle everything
+- [x] Volume slider
+- [-] Restyle everything
 
 ## What We Learned
 
-- 
+- how to send messages from popup to webpage
+- how to run script on popup opening
 
 ## Things to Look Into
 
-- 
+- Styling Range Input (A Sliding Nightmare): https://css-tricks.com/sliding-nightmare-understanding-range-input/
 
 ## Announcements
 
-- [ ] Halloween Charity Cooking Stream 10/31: Sweet, savory, healthy, Trick or Treat Wheel!
-- [ ] QOTD: What's your general problem solving technique look like?
+- [x] Upgraded set up, new camera, now with lighting!!!
+- [x] Halloween Charity Cooking Stream 10/31: Sweet, savory, healthy, Trick or Treat Wheel!
+- [x] QOTD: What's your general problem solving technique look like?
