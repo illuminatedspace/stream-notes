@@ -1,0 +1,40 @@
+# 2020-11-14 GOVERNMENT API DEADDROP DAY 1
+
+## Agenda
+
+- [x] Announcements
+- [x] Goverment APIs
+    - [x] What's available
+    - [x] What could we make with it
+
+- [ ] Geolocation Based Secrets App - Deaddrop
+    - [x] review existing app
+    - [ ] learn about Vue
+
+## What We Did
+
+- Government APIs
+  - Look at what was available. There's a lot
+  - https://www.programmableweb.com/category/government/apis?category=20094
+  - https://catalog.data.gov/dataset?groups=law1129&_groups_limit=0
+  
+- Deaddrop
+  - non commercial open source licences are confusing https://www.quora.com/What-is-the-best-free-for-non-commercial-use-license-to-use-for-an-open-source-project?share=1
+  - Started tech design doc
+  - Explored potential technologies to use
+  - Started setting up heroku
+
+## What We Learned
+
+- Heroku is a free SQL database alternative, and is more complicated than it was 4 years ago
+
+## Things to Look Into
+
+- How to set up heroku
+
+## Announcements
+
+- [x] Halloween Charity Cooking Stream 10/31: We raised $700 for the Refugee And Immigrant Center for Education and Legal Services
+- [x] Knitting Stream, Hardware Stream, Game Dev Stream, 12 Hour Stream donation goals achieved
+- [x] Blaseball is on Hiatus, so Persephone Jones is on Hiatus
+- [x] QOTD: What coding or career advice would you give earlier you?
