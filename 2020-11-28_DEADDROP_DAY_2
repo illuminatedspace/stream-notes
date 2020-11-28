@@ -1,28 +1,37 @@
-# 2020-11-28 GOVERNMENT API DEADDROP DAY 1
+# 2020-11-28 DEADDROP DAY 2
 
 ## Agenda
 
-- [ ] Announcements
+- [x] Announcements
 
-- [ ] Geolocation Based Secrets App - Deaddrop
-    - [ ] put database on heroku
+- [ ] Geolocation Based Anonymous Secrets App - Deaddrop
+    - [ ] ~~put database on heroku~~
+    - [ ] ~~implement amplify~~
+    - [-] Learn Vue
 
 ## What We Did
   
 - Deaddrop
-  - 
+  - Tried to install heroku cli tools, needed to install brew, couldn't figure out sudo password for wsl
+  - Thought we could implement auth, but need a UI to implement it in
+  - Started learning Vue, which is really cool and fast to learn
 
 ## What We Learned
 
-- 
+- Vue is much quicker to start learning than react
+- Web development is complicated af
 
 ## Things to Look Into
 
-- 
+- WHAT THE HECK IS MY WSL SUDO PASSWORD!?!?
+- Install Brew
+- Install Heroke CLI tools
+- Follow getting started guide https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
+- Read Vue docs: https://vuejs.org/v2/guide/computed.html
 
 ## Announcements
 
-- [ ] Knitting Stream, Hardware Stream, Game Dev Stream, 12 Hour Stream donation goals achieved
-- [ ] Blaseball is on Hiatus?, so Persephone Jones is on Hiatus
-- [ ] Might start doing pre stream make up streams
-- [ ] QOTD: Do you have any plants, pets, or plushies?
+- [x] Knitting Stream, Hardware Stream, Game Dev Stream, 12 Hour Stream donation goals achieved
+- [x] Blaseball is on Hiatus?, so Persephone Jones is on Hiatus
+- [x] Might start doing pre stream make up streams
+- [x] QOTD: Do you have any plants, pets, or plushies?
