@@ -4,19 +4,25 @@
 
 - [x] Announcements
 
-- [ ] Advent of Code with python!
+- [x] Advent of Code with python!
 
 ## What We Did
   
-- 
+- Both parts of Day 1 and Day 2 in Python
 
 ## What We Learned
 
-- 
+- Python list comprehensions
+  - @ssvagelol https://www.youtube.com/watch?v=9qsq2Vf48W8&feature=emb_title
+  - @ssvagelol https://blog.teamtreehouse.com/python-single-line-loops
+  - @TheldOfAlan https://realpython.com/list-comprehension-python/
+  
+- learned a lot of python syntax
 
 ## Things to Look Into
 
-- 
+- WTF Python https://github.com/satwikkansal/wtfpython
+- Big Brain solution for day 1: https://www.youtube.com/watch?v=QnwHMuK21qs
 
 ## Announcements
 
