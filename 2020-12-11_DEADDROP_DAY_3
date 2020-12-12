@@ -2,7 +2,7 @@
 
 ## Agenda
 
-- [ ] Announcements
+- [x] Announcements
 
 - [ ] Geolocation Based Anonymous Secrets App - Deaddrop
     - [-] Learn Vue
@@ -12,21 +12,24 @@
 ## What We Did
   
 - Deaddrop
-  - 
+  - Kept learning Vue
 
 ## What We Learned
 
-- 
+  - Learned that there are a lot of ways to start a Vue app
+  - There's a vue cli UI
+  - Vue 2 and Vue 3 have different ways of creating vue components
+  - Computed Properties, Watchers
 
 ## Things to Look Into
 
 - Install Heroku CLI tools
 - Follow getting started guide https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
-- Read Vue docs: https://vuejs.org/v2/guide/computed.html
+- Read Vue docs: https://v3.vuejs.org/guide/class-and-style.html#binding-html-classes
 
 ## Announcements
 
-- [ ] Hardware Stream, Game Dev Stream, 12 Hour Stream donation goals achieved
-- [ ] Knitting stream was on Wednesday. Catch the VOD if you missed the Yarn and Tarot stream
-- [ ] Blaseball is on Hiatus?, so Persephone Jones is on Hiatus
-- [ ] QOTD: What are your tips for learning new frameworks? What frameworks are your learning/do you know?
+- [x] Hardware Stream, Game Dev Stream, 12 Hour Stream donation goals achieved
+- [x] Knitting stream was on Wednesday. Catch the VOD if you missed the Yarn and Tarot stream
+- [x] Blaseball is on Hiatus?, so Persephone Jones is on Hiatus
+- [x] QOTD: What are your tips for learning new frameworks? What frameworks are your learning/do you know?
