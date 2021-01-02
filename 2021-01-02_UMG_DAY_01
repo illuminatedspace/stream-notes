@@ -2,9 +2,9 @@
 
 ## Agenda
 
-  - [ ] Announcements
+  - [x] Announcements
 
-  - [ ] Explore text input in Ren'py
+  - [x] Explore text input in Ren'py
 
 ## What We Did
   
@@ -13,23 +13,25 @@
   - Followed this blog post about setting up a new project/game: https://letsbuild.gg/cpluta/setup-ren-py-project-5dmh
 
 ### Stream
-  - 
+  - Came up with a possible solution to form input
+  - Exporing how to implement one at a time editable fields
 
 ## What We Learned
 
-  - 
+  - Still need to understand relationship between global variables/functions in Python and Ren'py
 
 ## Things to Look Into
 
-  - 
+  - Other ways to get the form working?
+  - Why won't the value update?
 
 ## Announcements
 
-  - [ ] Happy New Year! 2021
-  - [ ] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
-  - [ ] Not one but a **whole month of game dev streams!!!** Let's make a game in January.
-  - [ ] Blaseball is on Hiatus?, so Persephone Jones is on Hiatus
-  - [ ] QOTD: Have you made a game? What would your next/first game be?
+  - [x] Happy New Year! 2021
+  - [x] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
+  - [x] Not one but a **whole month of game dev streams!!!** Let's make a game in January.
+  - [x] Blaseball is on Hiatus?, so Persephone Jones is on Hiatus
+  - [x] QOTD: Have you made a game? What would your next/first game be?
 
 Live Message
 [python, renpy] Day 1 The Code Witch makes a mystery game !mission !tarot
