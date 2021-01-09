@@ -2,9 +2,9 @@
 
 ## Agenda
 
-  - [ ] Announcements
+  - [x] Announcements
   - [ ] Make buttons in Ren'Py and see if we need visual button assets
-  - [ ] Investigate long form text input
+  - [-] Investigate long form text input
 
 ## What We Did
   
@@ -12,18 +12,25 @@
   - Nearly finished the Game Design Doc: https://www.notion.so/Game-Design-Doc-Untitled-Mystery-Game-b349be2f73514c48a301f69a2580278a
 
 ### Stream
-  - 
+  - We set up navigation to where the long text input prototype will go
+  - We started to try and create our long text Creator Defined Displayable
 
 ## What We Learned
 
-  - 
+  - It's very hard to learn Python and Ren'py at the same time
+  - in python3 the super(MyClass, self) call is equivalent to super()
 
 ## Things to Look Into
 
-  - 
+  - install python3 on windows side
+  - check if tkinter is installed python -m tkinter or python3 -m tkinter
+  - Install tkinter if not working: https://tkdocs.com/tutorial/install.html
+  - Python docs on tkinter: https://docs.python.org/3/library/tkinter.html#module-tkinter
+  - How to create a class in python: https://realpython.com/python-super/
+  - How to create a Creator Defined Displayable
 
 ## Announcements
 
-  - [ ] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
-  - [ ] Not one but a **whole month of game dev streams!!!** Let's make a game in January.
-  - [ ] QOTD: What's your favorite type of game to play?
+  - [x] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
+  - [x] Not one but a **whole month of game dev streams!!!** Let's make a game in January.
+  - [x] QOTD: What's your favorite type of game to play?
