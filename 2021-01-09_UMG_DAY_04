@@ -1,0 +1,34 @@
+# 2021-01-09 UMG DAY 04
+
+## Agenda
+
+  - [ ] Announcements
+  - [ ] Make buttons in Ren'Py and see if we need visual button assets
+  - [-] Investigate long form text input
+
+## What We Did
+  
+### Pre-Stream
+  -  
+
+### Stream
+  -  
+
+## What We Learned
+
+  -  
+
+## Things to Look Into
+
+  - install python3 on windows side
+  - check if tkinter is installed python -m tkinter or python3 -m tkinter
+  - Install tkinter if not working: https://tkdocs.com/tutorial/install.html
+  - Python docs on tkinter: https://docs.python.org/3/library/tkinter.html#module-tkinter
+  - How to create a class in python: https://realpython.com/python-super/
+  - How to create a Creator Defined Displayable
+
+## Announcements
+
+  - [ ] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
+  - [ ] Not one but a **whole month of game dev streams!!!** Let's make a game in January.
+  - [ ] QOTD: What's your favorite type of game to play?
