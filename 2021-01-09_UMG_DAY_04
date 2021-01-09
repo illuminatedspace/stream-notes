@@ -12,20 +12,22 @@
   -  
 
 ### Stream
-  -  
+  - installed python3
+  - got a type of notes displaying
+  - got notes displaying with a list 
+  - got notes displaying from a dictionary
+  - tried to save a new note to dictionay, had trouble
 
 ## What We Learned
 
-  -  
-
+  - new input value methods
+  - you can't use tkinter or any gui type libraries in Ren'py
+  - Liz has thoughts on getting degrees
+  
+  
 ## Things to Look Into
 
-  - install python3 on windows side
-  - check if tkinter is installed python -m tkinter or python3 -m tkinter
-  - Install tkinter if not working: https://tkdocs.com/tutorial/install.html
-  - Python docs on tkinter: https://docs.python.org/3/library/tkinter.html#module-tkinter
-  - How to create a class in python: https://realpython.com/python-super/
-  - How to create a Creator Defined Displayable
+  - 
 
 ## Announcements
 
