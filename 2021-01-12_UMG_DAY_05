@@ -2,9 +2,9 @@
 
 ## Agenda
 
-  - [ ] Announcements
+  - [x] Announcements
   - [ ] Make buttons in Ren'Py and see if we need visual button assets
-  - [ ] Investigate long form text input
+  - [x] Investigate long form text input
 
 ## What We Did
   
@@ -12,11 +12,15 @@
   -  
 
 ### Stream
-  - 
+  - We decided not to continue with notes feature right now
+  - We explored the Self Voicing feature
+  - Thought about if we understood how to implement the other mechanics
+  - How do buttons work?
 
 ## What We Learned
 
-  - 
+  - alt characer and alt properties for Self Voicing mode
+  - Styling is very confusing
   
   
 ## Things to Look Into
@@ -25,7 +29,7 @@
 
 ## Announcements
 
-  - [ ] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
-  - [ ] Not one but a **whole month of game dev streams!!!** Let's make a game in January
-  - [ ] Next stream will be a UI/UX design stream
-  - [ ] QOTD: What are you watching now-a-days? TV, Movies, YouTube? Any new favorites?
+  - [x] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
+  - [x] Not one but a **whole month of game dev streams!!!** Let's make a game in January
+  - [x] Next stream will be a UI/UX design stream
+  - [x] QOTD: What are you watching now-a-days? TV, Movies, YouTube? Any new favorites?
