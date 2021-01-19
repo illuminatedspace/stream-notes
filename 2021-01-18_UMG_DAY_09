@@ -2,8 +2,8 @@
 
 ## Agenda
 
-  - [ ] Announcements
-  - [ ] Start implementing the main game screen
+  - [x] Announcements
+  - [-] Start implementing the main game screen
 
 ## What We Did
   
@@ -11,11 +11,15 @@
   -  
 
 ### Stream
-  - 
+  - put nvl in correct spot
+  - sized it correctly
+  - started to implement scrollable window for NVL
+  - exported visual assets for glass and button
 
 ## What We Learned
 
-  - 
+  - you need to have a viewport to get a scrollbar?
+  - Ren'py exists
   
   
 ## Things to Look Into
@@ -24,6 +28,6 @@
 
 ## Announcements
 
-  - [ ] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
-  - [ ] Not one but a **whole month of game dev streams!!!** Let's make a game in January
-  - [ ] QOTD: What's your favorite outdoor activity?
+  - [x] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
+  - [x] Not one but a **whole month of game dev streams!!!** Let's make a game in January
+  - [x] QOTD: What's your favorite outdoor activity?
