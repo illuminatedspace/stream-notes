@@ -2,8 +2,8 @@
 
 ## Agenda
 
-  - [ ] Announcements
-  - [ ] Implement the main game screen
+  - [x] Announcements
+  - [-] Implement the main game screen
 
 ## What We Did
   
@@ -11,19 +11,23 @@
   -  
 
 ### Stream
-  - 
+  - Got the scrollable viewport working better. Sized correctly but scrollbars are busted.
 
 ## What We Learned
 
-  - 
+  - what the has keyword does
+  - how to add a scrollbar kind of
+  - viewports allow for scrollable windows
+  - frames are ways to make windows with dynamically sized backgrounds
+  - side is a layout viewable? where you can specify the layout of the children viewables
   
   
 ## Things to Look Into
 
-  - 
+  - why scrollbars bad?
 
 ## Announcements
 
-  - [ ] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
-  - [ ] Extra streams on hold for a few weeks. Pushing game ship goal date to February
-  - [ ] QOTD: What is the best mystery game?
+  - [x] Hardware Stream, 12 Hour Stream donation goals achieved last charity stream TBA
+  - [x] Extra streams on hold for a few weeks. Pushing game ship goal date to Februaryx
+  - [x] QOTD: What is the best mystery game?
