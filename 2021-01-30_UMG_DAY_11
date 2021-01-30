@@ -3,7 +3,7 @@
 ## Agenda
 
   - [x] Announcements
-  - [ ] Implement the main game screen
+  - [-] Implement the main game screen
 
 ## What We Did
   
@@ -11,8 +11,11 @@
   -  
 
 ### Stream
-  - 
-
+  - Got NVL Dialogue area scrolling correctly!!!!!!!!!
+  - Import font, Style name and text for dialogue
+  - added typewriter effect
+  - Dialogue area will stay at the bottom
+  
 ## What We Learned
 
   - 
