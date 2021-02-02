@@ -2,8 +2,8 @@
 
 ## Agenda
 
-  - [ ] Announcements
-  - [ ] Implement the buttons
+  - [x] Announcements
+  - [x] Implement the buttons
 
 ## What We Did
   
@@ -11,11 +11,15 @@
   -  
 
 ### Stream
-  - 
+  - implemented a first pass at the quick menu
+  - hooked up buttons where possible
+  - made hover and selected image map files
   
 ## What We Learned
 
-  - 
+  - Image map takes alt text
+  - Image map uses unintuitive names for selector images
+  - `imagemap` and `hotspot`
   
 ## Things to Look Into
 
@@ -23,6 +27,6 @@
 
 ## Announcements
 
-  - [ ] Hardware Stream (Planning in Feb), 12 Hour Stream donation goals (???) achieved last charity stream TBA
-  - [ ] Extra game dev streams are back! Pushing game ship goal date to February.
-  - [ ] QOTD: Summer or Winter? Which is better?
+  - [x] Hardware Stream (Planning in Feb), 12 Hour Stream donation goals (???) achieved last charity stream TBA
+  - [x] Extra game dev streams are back! Pushing game ship goal date to February.
+  - [x] QOTD: Summer or Winter? Which is better?
