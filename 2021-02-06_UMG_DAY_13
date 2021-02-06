@@ -2,9 +2,9 @@
 
 ## Agenda
 
-  - [ ] Announcements
-  - [ ] Review tasks
-  - [ ] Implement Time Management
+  - [x] Announcements
+  - [x] Review tasks
+  - [-] Implement Time Management
 
 ## What We Did
   
@@ -12,11 +12,15 @@
   -  
 
 ### Stream
-  - 
+  - added a new screen for time management stuff
+  - Figured out how to do text interpolation with renpy
+  - started displaying a date with programmatic day
   
 ## What We Learned
 
-  - 
+  - Someone made side scrolling walk animations in Ren'Py?!
+  - "People are different and it's great!! 🥰" @AshleeMBoyer
+  - You can block rollback, disable rollback, and have an area to click on for rollback
   
 ## Things to Look Into
 
@@ -24,5 +28,5 @@
 
 ## Announcements
 
-  - [ ] Hardware Stream (Planning in Feb), 12 Hour Stream donation goals (???) achieved last charity stream TBA
-  - [ ] QOTD: What's the longest game you've ever played, or game you've gotten the most into?
+  - [x] Hardware Stream (Planning in Feb), 12 Hour Stream donation goals (???) achieved last charity stream TBA
+  - [x] QOTD: What's the longest game you've ever played, or game you've gotten the most into?
