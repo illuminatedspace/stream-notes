@@ -1,0 +1,39 @@
+# 2021-02-27 UMG DAY 15 CASE OF THE MISSING STORE
+
+## Agenda
+
+  - [x] Announcements
+  - [ ] Import new graphics
+  - [-] Implement Time Management
+
+## What We Did
+  
+### Pre-Stream
+  -  Updated some more graphics!
+
+### Stream
+  - Styled the date time string
+  - Made date time string text button for screen reader accessibility
+  - Solved the case of the missing store
+  - Created starter version of advance_time function
+  
+## What We Learned
+
+  - you can use `NullAction()` as an action to preserve button functionality without doing anything. Good for a11y.
+  - you can interact with variables inside functions in init python blocks, but you must specify the store name, even the default one `store`
+  
+## Things to Look Into
+
+  - [Blog from The Blind Nerd on accessibility in Renpy](https://theblindnerdblog.wordpress.com/tag/renpy/)
+  
+## Chat Topics
+
+  - Mysteries
+  - Aquarium Update
+  - Computer Troubles
+
+## Announcements
+
+  - [x] Hardware Stream, 12 Hour Stream donation goals (???) achieved last charity stream TBA
+  - [x] All streams are no longer "family friendly" because I will cuss
+  - [x] QOTD: What's the best rainy day activity?
