@@ -2,9 +2,9 @@
 
 ## Agenda
 
-  - [ ] Announcements
+  - [x] Announcements
   - [ ] Import new graphics
-  - [-] Implement Time Management
+  - [x] Implement Time Management
 
 ## What We Did
   
@@ -12,24 +12,31 @@
   -  
 
 ### Stream
-  - 
+  - Added a date time object to maniupulate for time management
+  - Added some functions to set time and advance time
+  - Removed some unneeded variables
+  - Tested to make sure days roll over
   
 ## What We Learned
 
-  - 
+  - How to create datetime objects
+  - How to manipulate datetime objects
+  - The `*` is the pack/unpack operator. Seems to work similar to `...` the spread/rest operator in Javascript
+  - We still don't know shit about stores in Ren'py
   
 ## Things to Look Into
 
   - [Blog from The Blind Nerd on accessibility in Renpy](https://theblindnerdblog.wordpress.com/tag/renpy/)
+  - [Internets Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ&ab_channel=moviemaniacsDE) Documentary about Aaron Swartz
   
 ## Chat Topics
 
   - Aquarium Update
-  - Mystery: Extra History Collapse of the Bronze Age
+  - Mystery: Extra History Collapse of the Bronze Age https://www.youtube.com/watch?v=KkMP328eU5Q
   - Blaseball is BACK bb!!!
 
 ## Announcements
 
-  - [ ] Hardware Stream, 12 Hour Stream donation goals (???) achieved last charity stream TBA
-  - [ ] All streams are no longer "family friendly" because I will cuss
-  - [ ] QOTD: What items do you have in your Blaseball snack pack?
+  - [x] Hardware Stream, 12 Hour Stream donation goals (???) achieved last charity stream TBA
+  - [x] All streams are no longer "family friendly" because I will cuss
+  - [x] QOTD: What items do you have in your Blaseball snack pack?
